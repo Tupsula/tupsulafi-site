@@ -59,5 +59,4 @@ theme = 'ananke'
 custom_css = ["custom.css"]
 site_logo = "images/tupsulalogosmol.png"
 description = "Kotiin, ei kämpille"
-author = "Tupsula"
 recent_posts_number = 1

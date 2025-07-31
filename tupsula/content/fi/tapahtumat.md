@@ -1,4 +1,9 @@
-# Tapahtumat
+---
+#featured_image: "images/tupsula.jpg"
+title: "Tapahtumat"
+description: "Kotiin, ei kämpille."
+---
+
 
 ## Tupsulassa tapahtuu ympäri vuoden
 

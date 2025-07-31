@@ -1,4 +1,9 @@
-# FAQ
+---
+#featured_image: "images/tupsula.jpg"
+title: "FAQ"
+description: "Kotiin, ei kämpille."
+---
+
 
 Tässä vastaamme sellaisiin kysymyksiin, joita Tupsulasta yleensä esitetään!
 

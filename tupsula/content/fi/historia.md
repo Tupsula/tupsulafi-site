@@ -1,4 +1,10 @@
-# Historia
+---
+#featured_image: "images/tupsula.jpg"
+title: "Historia"
+description: "Kotiin, ei kämpille."
+---
+
+
 
 ## Yhteisöllistä asumista 80-luvulta asti
 

@@ -1,7 +1,7 @@
 ---
 featured_image: "images/tupsula.jpg"
 title: "Tupsula"
-description: "Kotiin, Ei kämpille."
+description: "Kotiin, ei kämpille."
 ---
 
 
