@@ -19,7 +19,6 @@ Näkyvin tapahtuma on eittämättä **Tupsulan ulkoilmakonsertti**. Konsertti on
 |:--:|
 |*Naamoissa panostetaan koristeluun ja esityksiin.*|
 
-
 **Naamat** ovat syksyisin järjestettävä koko talon yhteinen tapahtuma, jossa on tarkoitus tehdä talon väki tutuksi toisilleen. Naamoissa jokainen kerrostasanne valmistelee lyhyen näytelmän, jonka jälkeen tarjotaan pientä purtavaa talon väelle. Esitysten jälkeen Tupsulan Keisarin johtama arvovaltainen raati palkitsee parhaan esityksen, parhaat tarjoilut sekä parhaan yksilösuorituksen.
 
 Tupsulan vuosijuhlat järjestetään joka vuosi keväällä. Pyöreät ja puolipyöreät vuosijuhlat järjestetään akateemisina pöytäjuhlina. Muina vuosina juhlat järjestetään talossa, ja kaava on vapaampi. Vuosijuhlilla valitaan Vuoden Tupsulalainen, Lukkari ja Tupsulan vanhin.

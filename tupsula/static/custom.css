@@ -15,3 +15,19 @@
 .measure-wide {
   max-width: 60% !important; /* or 80ch or 100ch */
 }
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table, 
+table th, 
+table td {
+  border: 1px solid black;
+  padding: 2px;
+}
+
+table td {
+  font-size:15px;
+}

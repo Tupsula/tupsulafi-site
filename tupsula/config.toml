@@ -59,4 +59,9 @@ theme = 'ananke'
 custom_css = ["custom.css"]
 site_logo = "images/tupsulalogosmol.png"
 description = "Kotiin, ei kämpille"
-recent_posts_number = 1
+recent_posts_number = 3
+background_color_class = "bg-black"
+
+[markup]
+  [markup.goldmark]
+    renderer.unsafe = true
