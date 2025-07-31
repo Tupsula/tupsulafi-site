@@ -1,9 +1,3 @@
-[submodule "themes/magnolia"]
-	path = themes/magnolia
-	url = git@github.com:ololiuhqui/magnolia-free-hugo-theme.git
 [submodule "tupsula/themes/ananke"]
 	path = tupsula/themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
-[submodule "themes/paige"]
-	path = themes/paige
-	url = git@github.com:willfaught/paige.git

@@ -1,0 +1,59 @@
+
+baseURL = 'https://tupsula.fi'
+languageCode = 'en-us'
+title = 'Tupsula - Kotiin ei kämpille'
+defaultContentLanguage = "fi"
+defaultContentLanguageInSubdir = true
+theme = 'ananke'
+
+[languages]
+  [languages.fi]
+    languageName = "Suomi"
+    weight = 1
+    contentDir = "content/fi"
+  [languages.en]
+    languageName = "English"
+    weight = 2
+    contentDir = "content/en"
+
+
+
+
+[languages.fi.menu]
+  [[languages.fi.menu.main]]
+    name = "Etusivu"
+    url = "/fi/"
+    weight = 1
+
+  [[languages.fi.menu.main]]
+    name = "Tapahtumat"
+    pageRef = "tapahtumat"
+    weight = 2
+
+  [[languages.fi.menu.main]]
+    name = "Historia"
+    pageRef = "historia"
+    weight = 3
+
+  [[languages.fi.menu.main]]
+    name = "FAQ"
+    pageRef = "faq"
+    weight = 4
+
+  [[languages.fi.menu.main]]
+    name = "Asukkaaksi"
+    pageRef = "asukkaaksi"
+    weight = 5
+
+  [[languages.fi.menu.main]]
+    name = "Yhteystiedot"
+    pageRef = "yhteystiedot"
+    weight = 6
+
+
+
+
+
+[params]
+custom_css = ["custom.css"]
+site_logo = "images/tupsulalogo.jpg"

@@ -1,0 +1,18 @@
+.container {
+  max-width: 1800px !important;
+}
+
+.hero-section {
+  background: url('/images/tupsula.jpg') center/cover no-repeat;
+  padding: 5rem 0;
+  color: white;
+  text-align: center;
+}
+
+body {
+  /*background-image: url('/images/tupsula.jpg');*/
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
