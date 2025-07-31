@@ -6,13 +6,13 @@ Arkisen elämän lisäksi Tupsulassa järjestetään paljon tapahtumia. Jotkut t
 
 |![ulkoilma](/images/ulkoilma.jpg)|
 |:--:|
-|Menoa ja meininkiä Tupsulan ulkoilmakonsertissa.|
+|*Menoa ja meininkiä Tupsulan ulkoilmakonsertissa.*|
 
 Näkyvin tapahtuma on eittämättä **Tupsulan ulkoilmakonsertti**. Konsertti on osa Teemunkierrosta, ja sitä on järjestetty vuodesta 1995 lähtien. Konsertissa talon parhaimmat kultakurkut esiintyvät paikalle saapuvalle noin muutamasatapäiselle teekkarijoukolle. Jokainen asukas voi esiintyä, ja koota haluamansa artistikokoonpanon lavalle esiintymään. Vain mielikuvitus on rajana!
 
 |![naamat](/images/naamat.jpg)|
 |:--:|
-|Naamoissa panostetaan koristeluun ja esityksiin.|
+|*Naamoissa panostetaan koristeluun ja esityksiin.*|
 
 
 **Naamat** ovat syksyisin järjestettävä koko talon yhteinen tapahtuma, jossa on tarkoitus tehdä talon väki tutuksi toisilleen. Naamoissa jokainen kerrostasanne valmistelee lyhyen näytelmän, jonka jälkeen tarjotaan pientä purtavaa talon väelle. Esitysten jälkeen Tupsulan Keisarin johtama arvovaltainen raati palkitsee parhaan esityksen, parhaat tarjoilut sekä parhaan yksilösuorituksen.
@@ -21,13 +21,13 @@ Tupsulan vuosijuhlat järjestetään joka vuosi keväällä. Pyöreät ja puolip
 
 |![vujut](/images/vujut.jpg)|
 |:--:|
-|Tupsulan vuosijuhlilla juhlitaan näyttävästi.|
+|*Tupsulan vuosijuhlilla juhlitaan näyttävästi.*|
 
 Tupsulalaiset järjestävät **siivoustalkoot** vähintään kerran vuodessa. Talkoissa siivotaan talo ja ympäristö, sekä mahdollisesti nikkaroidaan jotain tarpeellista yhteiseen hyvään. Ahkeroinnin jälkeen talon asukkaat kilpailevat mitä mielikuvituksellisimmissa lajeissa eeppisissä **Tupslympialaisissa**!
 
 |![kulkue](/images/kulkue.jpg)|
 |:--:|
-|Tupsulalaiset järjestävät perinteisen itsenäisyyspäivän soihtukulkueen.|
+|*Tupsulalaiset järjestävät perinteisen itsenäisyyspäivän soihtukulkueen.*|
 
 Itsenäisyyspäivänä talon asukkaat järjestävät juhlavan **itsenäisyyspäivän lounaan**, johon halukkaat asukkaat valmistelevat kolmen ruokalajin menun. Lounaalta siirrytään sujuvasti Tampereen keskustaan, missä talon asukkaat järjestävät vuosittain perinteikkään itsenäisyyspäivän soihtukulkueen. Soihtukulkueeseen ottavat osaa Tamperelaiset opiskelijat.
 

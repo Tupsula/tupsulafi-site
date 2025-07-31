@@ -1,6 +1,7 @@
 .container {
-  max-width: 1800px !important;
+  max-width: 1500px !important;
 }
+
 
 .hero-section {
   background: url('/images/tupsula.jpg') center/cover no-repeat;
@@ -9,10 +10,8 @@
   text-align: center;
 }
 
-body {
-  /*background-image: url('/images/tupsula.jpg');*/
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
+
+
+.measure-wide {
+  max-width: 60% !important; /* or 80ch or 100ch */
 }
