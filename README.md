@@ -14,9 +14,6 @@ $ hugo server
 
 Hugo needs go. 
 
-Go and Hugo are also in this repo
-
-
 ### Go
 Install go via https://go.dev/doc/install
 
