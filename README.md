@@ -37,3 +37,8 @@ tar -xvzf hugo_extended_${VERSION}_Linux-64bit.tar.gz
 sudo mv hugo /usr/local/bin/
 sudo chmod +x /usr/local/bin/hugo
 ```
+
+## TODO
+
+- Finish the site
+- Investigate how to run site with automated updates when repo updates. This can be achieved with maybe Github Pages, CF Pages or my own Kubernetes
