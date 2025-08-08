@@ -61,6 +61,8 @@ site_logo = "images/tupsulalogosmol.png"
 description = "Kotiin, ei kämpille"
 recent_posts_number = 3
 background_color_class = "bg-black"
+featured_image_class = "cover bg-top parallax"
+
 
 [markup]
   [markup.goldmark]

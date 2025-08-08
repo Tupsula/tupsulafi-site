@@ -31,3 +31,40 @@ table td {
 table td {
   font-size:15px;
 }
+
+
+
+.menu {
+  display: flex;
+  align-items: center;
+}
+
+.menu li {
+  list-style: none;
+  margin: 0;
+}
+
+.menu-lang {
+  margin-left: auto; /* pushes flag to far right */
+}
+
+.i18n-flag {
+  text-decoration: none;
+  font-size: 1.25rem;
+  line-height: 1;
+  padding: 0 0.4rem;
+}
+
+.parallax {
+  background-attachment: fixed;   /* slower than content on scroll */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+    min-height: 500px;
+}
+
+/* Mobile/tablet: disable fixed for performance */
+@media (max-width: 768px) {
+  .parallax { background-attachment: scroll; }
+}
