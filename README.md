@@ -2,6 +2,8 @@
 
 Hugo SSG tupsula.fi version because Wordpress and PHP sucks. 
 
+Site is currently running on beta.tupsula.fi. Site is powered by CF Pages.
+
 
 ## Using
 Go to site's folder and run:
@@ -41,4 +43,3 @@ sudo chmod +x /usr/local/bin/hugo
 ## TODO
 
 - Finish the site
-- Investigate how to run site with automated updates when repo updates. This can be achieved with maybe Github Pages, CF Pages or my own Kubernetes
