@@ -49,10 +49,21 @@ table td {
 }
 
 .i18n-flag {
+  display: inline-flex;
+  align-items: center;
   text-decoration: none;
-  font-size: 1.25rem;
+  font-size: 1rem;
   line-height: 1;
-  padding: 0 0.4rem;
+  color: rgba(255, 255, 255, 0.9); /* white-90 */
+  transition: color 0.2s;
+}
+
+.i18n-flag:hover {
+  color: #fff; /* pure white */
+}
+
+.i18n-flag img {
+  margin-right: 0.4rem;
 }
 
 .parallax {

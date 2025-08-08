@@ -21,7 +21,11 @@
         {{ end }}
 
         <a class="i18n-flag" href="{{ $target }}" aria-label="{{ .Language.LanguageName }}">
-          {{ if eq $lang "fi" }}🇫🇮{{ else if eq $lang "en" }}🇬🇧{{ end }}
+          {{ if eq $lang "fi" }}
+            <img src="/images/flags/fi.svg" alt="Suomeksi" width="20" height="15"> Suomeksi
+          {{ else if eq $lang "en" }}
+            <img src="/images/flags/en.svg" alt="English" width="20" height="15"> English
+          {{ end }}
         </a>
       {{ end }}
     {{ end }}
