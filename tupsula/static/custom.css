@@ -2,7 +2,6 @@
   max-width: 1500px !important;
 }
 
-
 .hero-section {
   background: url('/images/tupsula.jpg') center/cover no-repeat;
   padding: 5rem 0;
@@ -10,10 +9,8 @@
   text-align: center;
 }
 
-
-
 .measure-wide {
-  max-width: 60% !important; /* or 80ch or 100ch */
+  max-width: 60% !important;
 }
 
 table {
@@ -32,8 +29,6 @@ table td {
   font-size:15px;
 }
 
-
-
 .menu {
   display: flex;
   align-items: center;
@@ -45,7 +40,7 @@ table td {
 }
 
 .menu-lang {
-  margin-left: auto; /* pushes flag to far right */
+  margin-left: auto; 
 }
 
 .i18n-flag {
@@ -54,12 +49,12 @@ table td {
   text-decoration: none;
   font-size: 1rem;
   line-height: 1;
-  color: rgba(255, 255, 255, 0.9); /* white-90 */
+  color: rgba(255, 255, 255, 0.9);
   transition: color 0.2s;
 }
 
 .i18n-flag:hover {
-  color: #fff; /* pure white */
+  color: #fff;
 }
 
 .i18n-flag img {
@@ -67,15 +62,20 @@ table td {
 }
 
 .parallax {
-  background-attachment: fixed;   /* makes it scroll slower than content */
+  background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 @media (max-width: 768px) {
-  /* Disable fixed background on mobile for performance */
   .parallax {
     background-attachment: scroll;
   }
+}
+
+figcaption {
+  font-size: 15px;
+  font-style: italic;
+  text-align: center;
 }
