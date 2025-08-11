@@ -19,6 +19,6 @@ Yhteisöllisen asumisen onnistumisen takaamiseksi Tupsulan asukasvalinnasta pä�
 
 Hakemuksen lähettämisen jälkeen se välittyy kaikille asukkaille. Hakijoille pyritään vastaamaan takaisin mahdollisimman nopeasti. Jos talossa on tilaa ja hakija on todettu hakemuksen perusteella potentiaaliseksi asukkaaksi, hänet kutsutaan esittäytymään Tupsulan Klaanin kokoukseen. 
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSe2GuZe7Zrr16QEpgT-fAzrN3ArBv4Ch0KcgGOVFk5bI2h9XQ/viewform" class="f6 link br2 ph3 pv2 mb2 dib white">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSe2GuZe7Zrr16QEpgT-fAzrN3ArBv4Ch0KcgGOVFk5bI2h9XQ/viewform" class="f6 link br2 ph3 pv2 mb2 dib white apply-button">
   Hae asukkaaksi
 </a>

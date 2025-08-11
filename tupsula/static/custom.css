@@ -79,3 +79,9 @@ figcaption {
   font-style: italic;
   text-align: center;
 }
+
+
+.apply-button {
+ font-size:30px;
+ padding:40px;
+}
