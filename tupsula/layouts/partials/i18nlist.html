@@ -1,0 +1,33 @@
+{{/* Show only the opposite language as an emoji flag, link to same-page translation or that lang's home */}}
+{{ if gt (len $.Sites) 1 }}
+  {{ $currentLang := $.Site.Language.Lang }}
+  {{ $page := . }}
+
+  <nav class="i18n" aria-label="Language switcher">
+    {{ range $.Sites }}
+      {{ $lang := .Language.Lang }}
+      {{ if ne $lang $currentLang }}
+        {{/* Prefer same-page translation; else fall back to language home */}}
+        {{ $target := "" }}
+        {{ with $page.Translations }}
+          {{ range . }}
+            {{ if eq .Lang $lang }}
+              {{ $target = .RelPermalink }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+        {{ if not $target }}
+          {{ $target = .Home.RelPermalink }}
+        {{ end }}
+
+        <a class="i18n-flag" href="{{ $target }}" aria-label="{{ .Language.LanguageName }}">
+          {{ if eq $lang "fi" }}
+            <img src="/images/flags/fi.svg" alt="Suomeksi" width="20" height="15"> Suomeksi
+          {{ else if eq $lang "en" }}
+            <img src="/images/flags/en.svg" alt="English" width="20" height="15"> English
+          {{ end }}
+        </a>
+      {{ end }}
+    {{ end }}
+  </nav>
+{{ end }}

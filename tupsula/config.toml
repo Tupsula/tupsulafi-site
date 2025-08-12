@@ -1,12 +1,12 @@
-
+# base configuration
 baseURL = '/'
 languageCode = 'en-us'
 title = 'Tupsula'
-
 defaultContentLanguage = "fi"
 defaultContentLanguageInSubdir = true
 theme = 'ananke'
 
+# i18n thingies
 [languages]
   [languages.fi]
     languageName = "Suomi"
@@ -17,9 +17,7 @@ theme = 'ananke'
     weight = 2
     contentDir = "content/en"
 
-
-
-
+# Fi menu
 [languages.fi.menu]
   [[languages.fi.menu.main]]
     name = "Etusivu"
@@ -51,17 +49,57 @@ theme = 'ananke'
     pageRef = "yhteystiedot"
     weight = 6
 
+# Eng menu TODO 
+[languages.en.menu]
+  [[languages.en.menu.main]]
+    name = "Front Page"
+    url = "/en/"
+    weight = 1
+
+  [[languages.en.menu.main]]
+    name = "FAQ"
+    pageRef = "faq"
+    weight = 2
+
+  [[languages.en.menu.main]]
+    name = "Become a tenant"
+    pageRef = "asukkaaksi"
+    weight = 3
+
+  [[languages.en.menu.main]]
+    name = "Contact"
+    pageRef = "yhteystiedot"
+    weight = 4
 
 
-
-
+# Normal params
 [params]
 custom_css = ["custom.css"]
 site_logo = "images/tupsulalogosmol.png"
 description = "Kotiin, ei kämpille"
 recent_posts_number = 3
 background_color_class = "bg-black"
+featured_image_class = "cover bg-top parallax"
+
+[params.footer]
+  about_link = "/about/"
+  about_label = "About"
 
 [markup]
   [markup.goldmark]
     renderer.unsafe = true
+
+# Ananke theme params
+[params.ananke]
+  show_recent_posts = false
+
+[params.ananke.social]
+
+[params.ananke.social.follow]
+  networks = ["instagram"]
+  new_window_icon = true
+
+[params.ananke.social.networks.instagram]
+  label = "Instagram"
+  profile = "https://www.instagram.com/teekkaritalo_tupsula"
+  icon = "instagram"

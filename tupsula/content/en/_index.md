@@ -1,4 +1,9 @@
-# “A home, not just a flat”
+---
+featured_image: "images/tupsula.jpg"
+title: "Tupsula"
+description: "A home, not just a flat"
+---
+
 
 ## What the heck is Tupsula?
 
