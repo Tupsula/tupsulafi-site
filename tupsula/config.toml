@@ -49,7 +49,28 @@ theme = 'ananke'
     pageRef = "yhteystiedot"
     weight = 6
 
-# Eng menu TODO
+# Eng menu TODO 
+[languages.en.menu]
+  [[languages.en.menu.main]]
+    name = "Front Page"
+    url = "/en/"
+    weight = 1
+
+  [[languages.en.menu.main]]
+    name = "FAQ"
+    pageRef = "faq"
+    weight = 2
+
+  [[languages.en.menu.main]]
+    name = "Become a tenant"
+    pageRef = "asukkaaksi"
+    weight = 3
+
+  [[languages.en.menu.main]]
+    name = "Contact"
+    pageRef = "yhteystiedot"
+    weight = 4
+
 
 # Normal params
 [params]
