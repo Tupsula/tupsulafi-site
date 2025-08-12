@@ -1,9 +1,9 @@
 ---
 title: "About"
-date: 2025-08-11
 ---
 
+Page is powered by [Hugo](https://gohugo.io/) and hosted in [CF Pages](https://pages.cloudflare.com/).
 
-Page is created with Hugo.
+[Repository](https://github.com/sampozki/tupsulafi-site)
 
-All images have been photographed by Jussi Punamäki
+[Jussi Punamäki](https://punajussi.galleria.fi/kuvat/) photographed all images.

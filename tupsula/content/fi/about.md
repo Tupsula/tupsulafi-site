@@ -1,11 +1,10 @@
 ---
 title: "About"
-date: 2025-08-11
 ---
 
 
-Sivusto tehty [Hugolla](https://gohugo.io/). 
+Sivusto tehty [Hugolla](https://gohugo.io/) ja hostattu [CF Pages](https://pages.cloudflare.com/):lla.
 
-Repo: https://github.com/sampozki/tupsulafi-site
+[Repo](https://github.com/sampozki/tupsulafi-site)
 
-Jussi Punamäki on ottanut sivuston kuvat.
+[Jussi Punamäki](https://punajussi.galleria.fi/kuvat/) on ottanut sivuston kuvat.
