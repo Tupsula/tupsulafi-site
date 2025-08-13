@@ -70,4 +70,3 @@ Custom domain can be created with CNAME record.
 ## TODO
 
 - Finish the site
-- Change repo to public
