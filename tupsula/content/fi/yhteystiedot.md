@@ -4,6 +4,12 @@ title: "Yhteystiedot"
 description: "Kotiin, ei kämpille."
 ---
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 ## Osoite
 
 Tupsulan Klaani
@@ -49,7 +55,7 @@ Alta löydät asukkaat rapuittain ja asunnoittain. Kursivoidut nimet ovet lemmik
 | Jesse                                | **B16 – Ähködään Hovi**             |
 | **A6 – Kaljakilparata**              | Kekken                              |
 | vom_patti                            | Gifu                                |
-| Reiska                               | _Tutti_                             |
+| Reiska                               | **_Tutti_**                         |
 | **A7**                               | **B17 – Tuhlaajapojat**             |
 | Aaro                                 | seeSami                             |
 | Aatos                                | Villu                               |
