@@ -39,34 +39,45 @@ Alta löydät asukkaat rapuittain ja asunnoittain. Kursivoidut nimet ovet lemmik
 | **A1 - Keke-team**                   | **B10 - Marilyn's Diner**           |
 | Hammu                                | Jappu                               |
 | Tapio                                | Emmi                                |
-| Monni                                | **B11 – Super Baari**               |
+| Monni                                |                                     |
+|                                      | **B11 – Super Baari**               |
 | **A2 - Pellesirkus**                 | Huuskari                            |
-| Andy                                 | **B12 – Hell’s Kitchen**            |
-| Sampo                                |                                     |
+| Andy                                 |                                     |
+| Sampo                                | **B12 – Hell’s Kitchen**            |
+|                                      |                                     |
 | **A3 – Kirkkovenesatama**            | Niko                                |
-| kulkija                              | **B13 – Tsemppilluola**             |
-| Joni                                 | Ester                               |
+| kulkija                              |                                     |
+| Joni                                 | **B13 – Tsemppilluola**             |
+|                                      | Ester                               |
 | **A4 – Täysi laatikko Gambinaa**     | Ahlqvist                            |
-|                                      | **B14 – Saatanan Pillusiru Na**     |
-| Kemppi                               | Ada                                 |
-| Parempi Pyry                         | Sulfurux                            |
-| **A5 – Voimaeläintarha**             | **B15**                             |
-| opossumi                             | pekez                               |
-| Jesse                                | **B16 – Ähködään Hovi**             |
-| **A6 – Kaljakilparata**              | Kekken                              |
+| tyhjä                                |                                     |
+| Kemppi                               | **B14 – Saatanan Pillusiru Na**     |
+| Parempi Pyry                         | Ada                                 |
+|                                      | Sulfurux                            |
+| **A5 – Voimaeläintarha**             |                                     |
+| opossumi                             | **B15**                             |
+| Jesse                                | pekez                               |
+|                                      |                                     |
+| **A6 – Kaljakilparata**              | **B16 – Ähködään Hovi**             |
 | vom_patti                            | Gifu                                |
-| Reiska                               | **_Tutti_**                         |
-| **A7**                               | **B17 – Tuhlaajapojat**             |
-| Aaro                                 | seeSami                             |
-| Aatos                                | Villu                               |
-| Samuli                               | **B18 – Alko**                      |
-| **A8 – Kaivajat**                    | Miki                                |
-| Titta                                | Ulrika                              |
-| Pyry                                 | **B19 – Kiimainen Matti**           |
-| **A9 – Backstage**                   | Firely                              |
-| dodo                                 | **B20 – Himo ja hekuma**            |
-| Eino                                 | Tupsu                               |
+| Reiska                               | kekken                              |
+|                                      | **_Tutti_**                         |
+| **A7**                               |                                     |
+| Aaro                                 | **B17 – Tuhlaajapojat**             |
+| Aatos                                | seeSami                             |
+| Samuli                               | Villu                               |
+|                                      |                                     |
+| **A8 – Kaivajat**                    | **B18 – Alko**                      |
+| Titta                                | Miki                                |
+| Pyry                                 | Ulrika                              |
+|                                      |                                     |
+| **A9 – Backstage**                   | **B19 – Kiimainen Matti**           |
+| dodo                                 | Matti                               |
+| Eino                                 |                                     |
+|                                      | **B20 – Himo ja hekuma**            |
+|                                      | Tupsu                               |
 |                                      | Sanna                               |
+|                                      |                                     |
 |                                      | **B21 – Annalan Suuri Palatsi**     |
 |                                      | Kaisa                               |
 |                                      | Emma                                |
