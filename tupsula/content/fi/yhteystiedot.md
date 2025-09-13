@@ -4,12 +4,6 @@ title: "Yhteystiedot"
 description: "Kotiin, ei kämpille."
 ---
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 ## Osoite
 
 Tupsulan Klaani
@@ -39,45 +33,36 @@ Alta löydät asukkaat rapuittain ja asunnoittain. Kursivoidut nimet ovet lemmik
 | **A1 - Keke-team**                   | **B10 - Marilyn's Diner**           |
 | Hammu                                | Jappu                               |
 | Tapio                                | Emmi                                |
-| Monni                                |                                     |
-|                                      | **B11 – Super Baari**               |
+| Monni                                | **B11 – Super Baari**               |
 | **A2 - Pellesirkus**                 | Huuskari                            |
-| Andy                                 |                                     |
-| Sampo                                | **B12 – Hell’s Kitchen**            |
-|                                      |                                     |
+| Andy                                 | **B12 – Hell’s Kitchen**            |
+| Sampo                                |                                     |
 | **A3 – Kirkkovenesatama**            | Niko                                |
-| kulkija                              |                                     |
-| Joni                                 | **B13 – Tsemppilluola**             |
-|                                      | Ester                               |
+| kulkija                              | **B13 – Tsemppilluola**             |
+| Joni                                 | Ester                               |
 | **A4 – Täysi laatikko Gambinaa**     | Ahlqvist                            |
-| tyhjä                                |                                     |
-| Kemppi                               | **B14 – Saatanan Pillusiru Na**     |
-| Parempi Pyry                         | Ada                                 |
-|                                      | Sulfurux                            |
-| **A5 – Voimaeläintarha**             |                                     |
-| opossumi                             | **B15**                             |
-| Jesse                                | pekez                               |
-|                                      |                                     |
-| **A6 – Kaljakilparata**              | **B16 – Ähködään Hovi**             |
-| vom_patti                            | Gifu                                |
-| Reiska                               | kekken                              |
-|                                      | **_Tutti_**                         |
-| **A7**                               |                                     |
-| Aaro                                 | **B17 – Tuhlaajapojat**             |
-| Aatos                                | seeSami                             |
-| Samuli                               | Villu                               |
-|                                      |                                     |
-| **A8 – Kaivajat**                    | **B18 – Alko**                      |
-| Titta                                | Miki                                |
-| Pyry                                 | Ulrika                              |
-|                                      |                                     |
-| **A9 – Backstage**                   | **B19 – Kiimainen Matti**           |
-| dodo                                 | Matti                               |
-| Eino                                 |                                     |
-|                                      | **B20 – Himo ja hekuma**            |
-|                                      | Tupsu                               |
+|                                      | _Keke_                              |
+| Kemppi                               | _Ponnay_                            |
+| Parempi Pyry                         | **B14 – Saatanan Pillusiru Na**     |
+| **A5 – Voimaeläintarha**             | Ada                                 |
+| opossumi                             | Sulfurux                            |
+| Jesse                                | **B15**                             |
+| **A6 – Kaljakilparata**              | pekez                               |
+| vom_patti                            | **B16 – Ähködään Hovi**             |
+| Reiska                               | Kekken                              |
+| **A7**                               | Gifu                                |
+| Aaro                                 | **_Tutti_**                         |
+| Aatos                                | **B17 – Tuhlaajapojat**             |
+| Samuli                               | seeSami                             |
+| **A8 – Kaivajat**                    | Villu                               |
+| Titta                                | **B18 – Alko**                      |
+| Pyry                                 | Miki                                |
+| _Arthur_                             | Ulrika                              |
+| _Merlin_                             | **B19 – Kiimainen Matti**           |
+| **A9 – Backstage**                   | Firely                              |
+| dodo                                 | **B20 – Himo ja hekuma**            |
+| Eino                                 | Tupsu                               |
 |                                      | Sanna                               |
-|                                      |                                     |
 |                                      | **B21 – Annalan Suuri Palatsi**     |
 |                                      | Kaisa                               |
 |                                      | Emma                                |
