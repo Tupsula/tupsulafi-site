@@ -41,22 +41,24 @@ Alta löydät asukkaat rapuittain ja asunnoittain. Kursivoidut nimet ovet lemmik
 | kulkija                              | **B13 – Tsemppilluola**             |
 | Joni                                 | Ester                               |
 | **A4 – Täysi laatikko Gambinaa**     | Ahlqvist                            |
-|                                      | **B14 – Saatanan Pillusiru Na**     |
-| Kemppi                               | Ada                                 |
-| Parempi Pyry                         | Sulfurux                            |
-| **A5 – Voimaeläintarha**             | **B15**                             |
-| opossumi                             | pekez                               |
-| Jesse                                | **B16 – Ähködään Hovi**             |
-| **A6 – Kaljakilparata**              | Kekken                              |
-| vom_patti                            | Gifu                                |
-| Reiska                               | _Tutti_                             |
-| **A7**                               | **B17 – Tuhlaajapojat**             |
-| Aaro                                 | seeSami                             |
-| Aatos                                | Villu                               |
-| Samuli                               | **B18 – Alko**                      |
-| **A8 – Kaivajat**                    | Miki                                |
-| Titta                                | Ulrika                              |
-| Pyry                                 | **B19 – Kiimainen Matti**           |
+|                                      | _Keke_                              |
+| Kemppi                               | _Ponnay_                            |
+| Parempi Pyry                         | **B14 – Saatanan Pillusiru Na**     |
+| **A5 – Voimaeläintarha**             | Ada                                 |
+| opossumi                             | Sulfurux                            |
+| Jesse                                | **B15**                             |
+| **A6 – Kaljakilparata**              | pekez                               |
+| vom_patti                            | **B16 – Ähködään Hovi**             |
+| Reiska                               | Kekken                              |
+| **A7**                               | Gifu                                |
+| Aaro                                 | **_Tutti_**                         |
+| Aatos                                | **B17 – Tuhlaajapojat**             |
+| Samuli                               | seeSami                             |
+| **A8 – Kaivajat**                    | Villu                               |
+| Titta                                | **B18 – Alko**                      |
+| Pyry                                 | Miki                                |
+| _Arthur_                             | Ulrika                              |
+| _Merlin_                             | **B19 – Kiimainen Matti**           |
 | **A9 – Backstage**                   | Firely                              |
 | dodo                                 | **B20 – Himo ja hekuma**            |
 | Eino                                 | Tupsu                               |
