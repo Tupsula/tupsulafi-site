@@ -1,8 +1,16 @@
 # tupsulafi-site
 
-Hugo SSG tupsula.fi version because Wordpress and PHP sucks. 
+Hugo SSG of tupsula.fi version because Wordpress and PHP kinda sucks. 
 
-Site is currently running on beta.tupsula.fi. Site is powered by CF Pages.
+Site is currently running on https://tupsula.fi. Site is powered by Cloudflare's Pages. Site is also served under https://tupsula.pages.dev 
+
+## Notes regarding site edits
+
+CF Pages creates automatically websites of each branch. This follows logic https://<branch_name>.tupsula.pages.dev. After adding new features and/or changes, create pull request to master branch (remember to select correct branches). Keep in mind that free tier of CF Pages gives something like 500 builds per month. So if you're doing completely new features, develop site locally.
+
+Basic text editing is done under /tupsula/content/<language>. Just look sites that have been already made for examples.
+
+If any issues arise, contact @sampozki.
 
 ## Building
 
