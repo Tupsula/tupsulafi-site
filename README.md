@@ -25,6 +25,9 @@ hugo
 Go to site's folder and run:
 
 ```bash
+# Install submodules
+git submodule update --init
+
 hugo server
 ```
 
