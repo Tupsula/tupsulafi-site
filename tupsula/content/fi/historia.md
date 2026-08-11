@@ -32,6 +32,6 @@ Rakennusprojekti oli kuitenkin vasta alkua Tupsulan tarinalle. Vuosien varrella 
 
 Tupsulan olemassaolon aikana talossa on ehtinyt asua jo lukemattomat määrät aktiivisia teekkareita, huhupuheiden mukaan ollaan jo selvästi 500 paremmalla puolella. Onpa talossa nähty jo toisen polven Tupsulalaisiakin, kun vuonna 2017 taloon muutti ensi kertaa vanhojen asukkaiden jälkeläinen.
 
-Vuosien varrella Klaani on puuhaillut monenmoista taloon tehdyistä pikkurempoista ja seinämaalauksista grillin, PadanTM ja Eeppisen KattoTerassin (EKT) rakentamiseen sekä opiskelijabileiden järjestämiseen.
+Vuosien varrella Klaani on puuhaillut monenmoista taloon tehdyistä pikkurempoista ja seinämaalauksista grillin, PadanTM ja EEPPISEN KATTOTERASSIN (EKT) rakentamiseen sekä opiskelijabileiden järjestämiseen.
 
 Vuonna 2018 Tupsula juhli 30-vuotista taivaltaan, eikä näytä lainkaan epätodennäköiseltä, että nelikymppisiä juhlitaan aikanaan talossa, jossa edelleen asuu ja puuhastelee yhdessä tamperelaisia teekkareita.
