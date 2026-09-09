@@ -50,7 +50,7 @@ Alta löydät asukkaat rapuittain ja asunnoittain. Kursivoidut nimet ovet lemmik
 | **A6 – Kaljakilparata**              | **B16 – Ähködään Hovi**             |
 |                                      | Titta                               |
 | Reiska                               | Helmi                               |
-| **A7**                               | **B17 – Tuhlaajapojat**             |
+| **A7 PONNAY yrmbt**                  | **B17 – Tuhlaajapojat**             |
 | Aaro                                 | Jammu                               |
 | Aatos                                | Suvi                                |
 | Samuli                               | **B18 – Alko**                      |
@@ -61,7 +61,7 @@ Alta löydät asukkaat rapuittain ja asunnoittain. Kursivoidut nimet ovet lemmik
 | _Merlin_                             | **B20 – Himo ja hekuma**            |
 | **A9 – Backstage**                   | Sanna                               |
 | dodo                                 | Nea                                 |
-| Toni                                 | **B21 – Annalan Suuri Palatsi**     |
+| Toni                                 | **B21 – Teetä ja Sympatiaa**        |
 |                                      | Emma                                |
 |                                      | Nella                               |
 
