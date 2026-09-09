@@ -17,6 +17,6 @@ Tupsulan vilkas asukastoiminta onkin alusta saakka tuonut talolle näkyvyyttä m
 
 ## Miten Tupsulan löytää?
 
-Tupsula sijaitsee Tampereen Annalassa, tarkemmin osoitteessa Annalankatu 10. Paikalle pääset helposti Hervannasta bussilla numero 19 ja keskustasta busseilla numero 9 ja 19. Hervannan kampukselta Tupsulaan kävelee näppärästi puolessa tunnissa.
+Tupsula sijaitsee Tampereen Annalassa, tarkemmin osoitteessa Annalankatu 10. Paikalle pääset helposti Hervannasta bussilla numero 8B ja keskustasta busseilla numero 8A ja 8B. Hervannan kampukselta Tupsulaan kävelee näppärästi puolessa tunnissa.
 
 Laiskotuksen iskiessä voit myös napata taksin ja sanoa kuskille, että Tupsulaan. Jos kuski ei tiedä, tarkennuksena voi käyttää termejä Paistinpannutalo tai Vierasvenesatama ja viime kädessä tietenkin osoitetta. Kokemus on osoittanut että noin 50% Tampereen taksikuskeista tunnistaa nimen Tupsula ja tarkempaa selitystä ei tarvita.
