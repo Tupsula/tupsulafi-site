@@ -42,27 +42,26 @@ Alta löydät asukkaat rapuittain ja asunnoittain. Kursivoidut nimet ovet lemmik
 |                                      | Ahlqvist                            |
 | **A4 – Täysi laatikko Gambinaa**     | Paju                                |
 | Parempi Pyry                         | _Miina_                             |
-| Villu                                |                                     |
-| Jooa                                 | **B14 – Saatanan Pillusiru Na**     |
-| **A5 – Voimaeläintarha**             | Ada                                 |
-| Monni                                | Sulfurux                            |
-| & Co.                                | **B15**                             |
-| **A6 – Kaljakilparata**              | pekez                               |
-|                                      | **B16 – Ähködään Hovi**             |
-| Reiska                               | Titta                               |
-| **A7**                               | Helmi                               |
-| Aaro                                 |                                     |
-| Aatos                                | **B17 – Tuhlaajapojat**             |
-| Samuli                               | Jammu                               |
-| **A8 – Kaivajat**                    | Suvi                                |
-| Joni                                 | **B18 – Alko**                      |
-| Pyry                                 | Miki                                |
-| _Arthur_                             | Ulrika                              |
-| _Merlin_                             | **B19 – Kiimainen Matti**           |
-| **A9 – Backstage**                   | vom_patti                           |
-| dodo                                 | **B20 – Himo ja hekuma**            |
-| Toni                                 | Sanna                               |
-|                                      | Nea                                 |
-|                                      | **B21 – Annalan Suuri Palatsi**     |
+| Villu                                | **B14 – Saatanan Pillusiru Na**     |
+| Jooa                                 |  Ada                                |
+| **A5 – Voimaeläintarha**             |  Sulfurux                           |
+| Monni                                |  **B15**                            |
+| & Co.                                |  pekez                              |
+| **A6 – Kaljakilparata**              | **B16 – Ähködään Hovi**             |
+|                                      | Titta                               |
+| Reiska                               | Helmi                               |
+| **A7**                               | **B17 – Tuhlaajapojat**             |
+| Aaro                                 | Jammu                               |
+| Aatos                                | Suvi                                |
+| Samuli                               | **B18 – Alko**                      |
+| **A8 – Kaivajat**                    | Miki                                |
+| Joni                                 | Ulrika                              |
+| Pyry                                 | **B19 – Kiimainen Matti**           |
+| _Arthur_                             | vom_patti                           |
+| _Merlin_                             | **B20 – Himo ja hekuma**            |
+| **A9 – Backstage**                   | Sanna                               |
+| dodo                                 | Nea                                 |
+| Toni                                 | **B21 – Annalan Suuri Palatsi**     |
 |                                      | Emma                                |
 |                                      | Nella                               |
+
