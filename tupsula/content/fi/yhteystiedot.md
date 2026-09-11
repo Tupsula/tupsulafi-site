@@ -35,11 +35,11 @@ Alta löydät asukkaat rapuittain ja asunnoittain. Kursivoidut nimet ovet lemmik
 | Tapio                                | Jaakko                              |
 | Jesse                                | **B11 – Super Baari**               |
 | **A2 - Pellesirkus**                 | Huuskari                            |
-| Andy                                 | **B12 – Hell’s Kitchen**            |
+| Andy                                 | **B12 – Velkavuoren laavu**         |
 | Lassi                                | Niko                                |
 | **A3 – Kirkkovenesatama**            | Sampo                               |
-| kulkija                              | **B13 – Tsemppilluola**             |
-|                                      | Ahlqvist                            |
+| kulkija                              | **B13 – Tupsolalle Pim**            |
+|                                      | Lauri                               |
 | **A4 – Täysi laatikko Gambinaa**     | Paju                                |
 | Parempi Pyry                         | _Miina_                             |
 | Villu                                | **B14 – Saatanan Pillusiru Na**     |
@@ -57,7 +57,7 @@ Alta löydät asukkaat rapuittain ja asunnoittain. Kursivoidut nimet ovet lemmik
 | **A8 – Kaivajat**                    | Miki                                |
 | Joni                                 | Ulrika                              |
 | Pyry                                 | **B19 – Kiimainen Matti**           |
-| _Arthur_                             | vom_patti                           |
+| _Arthur_                             | vompatti                            |
 | _Merlin_                             | **B20 – Himo ja hekuma**            |
 | **A9 – Backstage**                   | Sanna                               |
 | dodo                                 | Nea                                 |
